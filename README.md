@@ -3,10 +3,10 @@
 A local AI-powered productivity assistant built with Python and Ollama.
 
 This tool automates everyday tasks like:
-- Email summarization
+- Email summarisation
 - Task extraction
 - Meeting analysis
-- File organization
+- File organisation
 - Desktop notifications
 - Scheduled automation
 
@@ -17,19 +17,19 @@ All AI processing runs **locally** using Ollama and the Phi-3 model.
 ## 🚀 Features
 
 ### 📧 Email Automation
-- Reads latest Gmail emails
-- Summarizes emails using AI
+- Reads the latest Gmail emails
+- Summarises emails using AI
 - Extracts actionable tasks
 
 ### 🧠 Meeting Analysis
-- Analyzes meeting notes
+- Analyses meeting notes
 - Extracts:
   - Summary
   - Action items
   - Important decisions
 
-### 📂 Smart File Organizer
-Automatically organizes files into folders:
+### 📂 Smart File Organiser
+Automatically organises files into folders:
 - PDFs
 - Images
 - Videos
@@ -39,7 +39,7 @@ Automatically organizes files into folders:
 Shows system notifications for:
 - Email summaries
 - Meeting insights
-- File organization updates
+- File organisation updates
 
 ### ⏰ Scheduled Automation
 Tasks run automatically using Python scheduler.
