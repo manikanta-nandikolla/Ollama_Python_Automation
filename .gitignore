@@ -1,0 +1,39 @@
+# Python virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Token / credentials
+token.json
+token.pickle
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Other custom files to ignore
+credentials.json
